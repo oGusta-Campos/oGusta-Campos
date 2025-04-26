@@ -6,7 +6,7 @@ Me chamo Gustavo Campos Moreira, tenho 18 anos e sou natural de Goiás. Concluí
 
 <p align="left">
     <a>
-        <img  href="https://e7.pngegg.com/pngimages/580/516/png-clipart-shrek-open-mouth-cartoons-shrek.png"
+        <img  href="https://github.com/oGusta-Campos/filmeFavorito/blob/main/imagens/botomimg.png"
             a
         />
     </a>
