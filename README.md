@@ -5,7 +5,7 @@
 Me chamo Gustavo Campos Moreira, tenho 18 anos e sou natural de Goiás. Concluí o ensino médio no Instituto Federal Goiano Campus Morrinhos, com o curso técnico em informática. Atualmente, estou cursando Tecnologia em Sistemas para Internet.
 
 <p align="left">
-    <a href="https://github.com/oGusta-Campos/filmeFavorito/blob/main/imagens/botomimg.png">
+    <a>
         <img  
             a
         />
